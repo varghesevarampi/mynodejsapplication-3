@@ -2,6 +2,8 @@ apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
   name: "myNodeRepo"
+  annotations:
+    dynatrace.com/dynatrace-entity-id: E5C61ACC63AF462C
 spec:
   type: service
   owner: user:guest
