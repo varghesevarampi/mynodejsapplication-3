@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: "myNodeRepo"
   annotations:
-    dynatrace.com/dynatrace-entity-id: E5C61ACC63AF462C
+    dynatrace.com/dynatrace-entity-id: SERVICE-33D33EDB40C2CF42
 spec:
   type: service
   owner: user:guest
